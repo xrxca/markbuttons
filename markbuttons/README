@@ -1,0 +1,30 @@
++-------------------------------------------------------------------------+
+|
+|  Author:    Karl McMurdo (user xrxca on roundcubeforum.net)
+|  Plugin:    markbuttons
+|  Version:   1.00 (20100218)
+|  Purpose:   Add Mark As: buttons to bottom of message list
+|  URL:       http://github.com/xrxca/markbuttons
+|  Copyright: (c) 2011 Karl McMurdo
+|
++-------------------------------------------------------------------------+
+
+markbuttons adds four Mark as: buttons to the bottom of the message list:
+Mark as: Read, Unread, Flagged, UnFlagged
+
+Installation
+------------
+Add the plugin to your config/main.inc.php
+
+Configuration
+-------------
+None.
+
+Localization
+------------
+The button hints use the default labels from the main roundcube
+localization files.
+I have added a number of languages for the 'Mark:' label that precedes
+the buttons, let me know if a language is incorrect, or if you
+have a language that is currently supported by roundcube that I should add.
+
