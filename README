@@ -1,0 +1,23 @@
++-------------------------------------------------------------------------+
+|                                                                         | 
+|  Author:    Karl McMurdo (user xrxca on roundcubeforum.net)             |
+|  Plugin:    markbuttons                                                 |
+|  Purpose:   Quick Marking Buttons at bottom of Message List             |
+|                                                                         |
++-------------------------------------------------------------------------+
+
+markbuttons is a Roundcube webmail plugin that adds buttons at the bottom
+of the message list to compliment the selection buttons.
+
+Four button are added, Mark as: Read, Unread, Flagged, UnFlagged
+
+Stable releases in TAR format are available under Downloads.
+
+To download the current source in either ZIP or TAR format
+click on the 'Download Source' button near the top.
+
+The zip or tar.gz file will have a xrxca-markbuttons-????? directory
+that will contain the actual markbuttons plugin directory
+move/copy the markbuttons directory to your plugins directory
+and enable the plugin in your config/main.inc.php file.
+
